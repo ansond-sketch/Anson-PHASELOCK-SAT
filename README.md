@@ -197,3 +197,7 @@ A high-efficiency 3-SAT solver designed for supercritical regimes (Ratio 3.3 to 
 ### Execution Status:
 - **Resonance Reached:** Ratio 3.30, 4.80, 4.90 -> `best_unsat=0`.
 - **Environment:** iOS/Linux Mobile Build (Lubuntu/Thin-OS recommended).
+### **The Wave-Sculptor: Cortex Integration**
+- **Gravity-Energy Synthesis:** Uses the Cortez wave measure to convert thermal noise into directional gravity.
+- **Picture Painting:** High-pressure leaders (Small 9) act as the outline of the Simplicial Aperture, while the foundational population (Big 3) provides the structural integrity.
+- **Zero-Unsat Lock:** Reaches best_unsat=0 by aligning the vibration of all 4 Planets into a single phase-lock.
