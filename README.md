@@ -182,3 +182,18 @@ For questions about this experimental SAT solver, please open an issue on GitHub
 ---
 
 **Last Updated**: 2026-02-23
+# Anson PHASELOCK-SAT (Mobile Build)
+
+## The Universal Solver Governance
+A high-efficiency 3-SAT solver designed for supercritical regimes (Ratio 3.3 to 9.0). This build treats logic as a mechanical lock and variables as pins.
+
+### Key Logic:
+- **Simplicial Aperture:** Contradiction cores form a triangulated mesh window.
+- **3-6-9 Harmonic Law:** - **Small 9:** Singularity lift for high-pressure pins ($P > 10^5$).
+  - **Medium 6:** Stability for mid-range gate pins ($800 < P < 900$).
+  - **Big 3:** Grounding for the foundational population.
+- **Problem-Solution Summation:** The pressure of one variable is the key to the next.
+
+### Execution Status:
+- **Resonance Reached:** Ratio 3.30, 4.80, 4.90 -> `best_unsat=0`.
+- **Environment:** iOS/Linux Mobile Build (Lubuntu/Thin-OS recommended).
